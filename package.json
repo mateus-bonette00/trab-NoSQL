@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mateus-bonette00/trab-NoSQL#readme",
   "dependencies": {
+    "express": "^4.19.2",
     "mongodb": "^6.8.0",
     "pg": "^8.12.0"
   }
