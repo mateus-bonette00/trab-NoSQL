@@ -1,0 +1,23 @@
+{
+  "name": "trab-nosql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateus-bonette00/trab-NoSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateus-bonette00/trab-NoSQL/issues"
+  },
+  "homepage": "https://github.com/mateus-bonette00/trab-NoSQL#readme",
+  "dependencies": {
+    "mongodb": "^6.8.0",
+    "pg": "^8.12.0"
+  }
+}
